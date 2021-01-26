@@ -1,0 +1,105 @@
+Bag of Tricks for Image Classification with Convolutional Neural Networks
+
+
+
+Trans papers:
+A Deep Network Solution for Attention and Aesthetics Aware Photo Cropping
+
+Exploiting Web Images for Weakly Supervised Object Detection
+Extracting Multiple Visual Senses for Web Learning
+
+Which Has Better Visual Quality: The Clear Blue Sky or a Blurry Animal?
+Improving Dataset Volumes and Model Accuracy
+Extracting Privileged Information for Enhancing Classifier Learning
+Finding Task-Relevant Features for Few-Shot Learning by Category Traversal
+Multi-Source Causal Feature Selection
+Two-Stream Convolutional Networks for Blind Image Quality Assessment
+Mutually Guided Image Filtering
+Learning Scene Attribute for Scene Recognition
+Learning Two-Branch Neural Networks for Image-Text Matching Tasks
+Part-Aware Fine-grained Object Categorization using Weakly Supervised Part Detection Network
+P-CNN: Part-Based Convolutional Neural Networks for Fine-Grained Visual Categorization
+
+Deep Learning From Noisy Image Labels With Quality Embedding
+Density Peak-Based Noisy Label Detection for Hyperspectral Image Classification
+
+
+CVF papers:
+Learning to Learn from Noisy Web Videos
+Webly Supervised Learning Meets Zero-shot Learning: A Hybrid Approach for Fine-grained Classification
+
+Reliable and Efficient Image Cropping: A Grid Anchor based Approach
+
+A2-RL: Aesthetics Aware Reinforcement Learning for Image Cropping
+Deep Cropping via Attention Box Prediction and Aesthetics Assessment
+Unequal-training for Deep Face Recognition with Long-tailed Noisy Data
+Spatially Variant Linear Representation Models for Joint Filtering
+
+Co-Mining: Deep Face Recognition with Noisy Labels
+Iterative Learning with Open-set Noisy Labels
+Joint Optimization Framework for Learning with Noisy Labels
+Learning From Noisy Labels By Regularized Estimation Of Annotator Confusion
+Learning from Noisy Labels with Distillation
+Symmetric Cross Entropy for Robust Learning with Noisy Labels
+Probabilistic End-to-end Noise Correction for Learning with Noisy Labels
+Learning From Noisy Large-Scale Datasets With Minimal Supervision
+Learning from Noisy Web Data with Category-level Supervision
+Learning to Learn from Noisy Labeled Data
+MetaCleaner: Learning to Hallucinate Clean Representations for Noisy-Labeled Visual Recognition
+Deep Self-Learning From Noisy Labels
+O2U-Net: A Simple Noisy Label Detection Approach for Deep Neural Networks
+
+
+
+Transactions on geoscience and remote sensing 
+Transactions on Pattern Analysis and Machine Intelligence
+Transactions on Image Processing
+Transactions on Multimedia
+ISPRS Journal of Photogrammetry and Remote Sensing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
